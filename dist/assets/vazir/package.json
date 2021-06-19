@@ -1,0 +1,64 @@
+{
+  "_from": "@fontsource/vazir",
+  "_id": "@fontsource/vazir@4.4.5",
+  "_inBundle": false,
+  "_integrity": "sha512-yzbwIT+NIo+rpXC2RFKqYKOerBSI2FqNeRkKXLEL9uUY3CeXY2AF0I1q1IcnRzAmIAPiH9U7mky6pVIcRlA64g==",
+  "_location": "/@fontsource/vazir",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@fontsource/vazir",
+    "name": "@fontsource/vazir",
+    "escapedName": "@fontsource%2fvazir",
+    "scope": "@fontsource",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@fontsource/vazir/-/vazir-4.4.5.tgz",
+  "_shasum": "7040f05315ecdf85e38bade1ade6b87891992644",
+  "_spec": "@fontsource/vazir",
+  "_where": "C:\\Users\\10\\Desktop\\course-ui",
+  "author": {
+    "name": "Lotus",
+    "email": "declininglotus@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/fontsource/fontsource/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Self-host the Vazir font in a neatly bundled NPM package.",
+  "gitHead": "1e7b37930b3ae1078a895f8ad2557a8724bca5d3",
+  "homepage": "https://github.com/fontsource/fontsource/tree/master/packages/vazir#readme",
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "Vazir",
+    "vazir",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface"
+  ],
+  "license": "MIT",
+  "main": "index.css",
+  "name": "@fontsource/vazir",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fontsource/fontsource.git",
+    "directory": "packages/vazir"
+  },
+  "version": "4.4.5"
+}
